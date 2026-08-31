@@ -1,0 +1,3 @@
+pandas
+PyQt5
+oandapyV20
